@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">美图看看</string>
+    <string name="channel_name">ChannelN</string>
+    <string name="channel_description">ChannelD</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="n_20182005230_n_20182005151_n_20182005048_n_n_o">制作人员：\n周启东 20182005230\n王悦琛 20182005151\n杭龙 20182005048\n做完这个真的是太难受了</string>
+</resources>
